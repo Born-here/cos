@@ -1,7 +1,14 @@
 // 조현경
 
-const TestJoH = () => {
-  return <></>;
-};
+import MainHome from '../home/MainHome'
 
-export default TestJoH;
+const TestJoH = () => {
+  return (
+    <>
+      <MainHome />
+      <h2>test</h2>
+    </>
+  )
+}
+
+export default TestJoH
