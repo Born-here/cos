@@ -7,6 +7,7 @@ const TestJoH = () => {
     <>
       <MainHome />
       <h2>test</h2>
+      <h2>test2</h2>
     </>
   )
 }
